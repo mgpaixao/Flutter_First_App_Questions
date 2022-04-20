@@ -77,7 +77,7 @@ class PerguntaAPPState extends State<PerguntaAPP> {
                   perguntaSelecionada: _perguntaSelecionada,
                   responder: _responder)
               : Resultado(
-                  'Parabéns !', _pontuacaoTotal, reiniciarQuestionario)),
+                  'Well done !', _pontuacaoTotal, reiniciarQuestionario)),
     );
   }
 }
